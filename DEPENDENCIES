@@ -1,0 +1,20 @@
+Technical Timeline and dependencies used in this project.
+
+IRIS
+darwin-xnu https://github.com/apple/darwin-xnu
+WebKit https://github.com/WebKit/WebKit
+VLC https://github.com/videolan/vlc
+ARToolKit https://github.com/ianyyin/artoolkit5
+
+AWS INFRASTRUCTURE
+XTProtocol
+
+VOUCHER SERVER
+SSL Checker
+Certificate Manager
+
+EXPO (App) STORE
+
+CLOSED LIBRARIES:
+None.
+
