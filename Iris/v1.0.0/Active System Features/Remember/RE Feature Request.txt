@@ -1,0 +1,1 @@
+Use Sensor to point at a TEXT and make a NOTE.

@@ -1,0 +1,1 @@
+Use SENSOR to READ TEXT via Audio.

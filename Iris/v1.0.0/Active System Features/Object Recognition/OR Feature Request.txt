@@ -1,0 +1,1 @@
+Recognize objects to do searches for buying on amazon's API, remebering as a memory for later.
