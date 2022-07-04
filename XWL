@@ -1,0 +1,21 @@
+[API: http://localhost:1337]
+[Token: Secret]
+[Style: style.css]
+
+[Title: This is Blox]
+
+#[Link: https://google.com Style: Business [Block:
+	[Image: image.png]
+	[FirstHeading: $hey World]
+	[Paragraph: Forget the World]
+]]
+
+[Table: Hello
+    [Row: [Cell: Company] [Cell: Contact]? [Cell: Country] [Cell: Color]]
+	#[Row: [Cell: $hey] [Cell: $hey]? [Cell: $hey] [Cell: $hey]]
+]
+
+[Javascript: script.js]
+[Javascript: document.getElementById("demo").innerHTML = "Hello JavaScript!"; ]
+
+!This is a comment.
