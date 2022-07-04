@@ -1,10 +1,13 @@
 Technical Timeline and dependencies used in this project.
 
 IRIS
-darwin-xnu https://github.com/apple/darwin-xnu
-WebKit https://github.com/WebKit/WebKit
-VLC https://github.com/videolan/vlc
-ARToolKit https://github.com/ianyyin/artoolkit5
+darwin-xnu https://github.com/apple/darwin-xnu [Kernel]
+WebKit https://github.com/WebKit/WebKit [Web]
+VLC https://github.com/videolan/vlc [Media]
+ARToolKit https://github.com/ianyyin/artoolkit5 [Spatial Interface]
+QEMU https://github.com/qemu/qemu [Mirror]
+UltraVNC https://github.com/ultravnc/UltraVNC [Connect]
+OpenGL https://github.com/McNopper/OpenGL 
 
 AWS INFRASTRUCTURE
 XTProtocol
