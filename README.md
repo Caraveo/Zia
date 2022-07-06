@@ -3,6 +3,8 @@ The Open Platform for Spatial Computing 👓 (Augmented Reality).
 
 ![FRONTOpen](https://user-images.githubusercontent.com/87449181/177030383-9abf34be-9e2c-4eb4-97f0-623d92d14b52.png)
 
+
+
 Zia is initially attempting to solve the Hardware-Platform issue of Augmented Reality.
 It is a project originated by Jon @Caraveo.
 
@@ -26,4 +28,8 @@ In Summary:
 
 These are the goals of this project, and contributions and discussions come highly respected and appreciated.
 
-😁
+
+https://user-images.githubusercontent.com/87449181/177612304-5dd9afeb-c3a6-42ee-86bb-e283324abae2.mov
+
+
+
