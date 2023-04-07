@@ -10,7 +10,7 @@ Ziawe Inc, is the organization that maintains Zia The Open Platform for using Au
 
 We are hoping to implement a succesful Open Platform that can be used by any technology company to create their own version of hardware to access this emerging industry.
 
-We want to solve the AR-Platform Problem, as we believe there is no hardware solution (yet) on the market that meets a certain standard for wide-range,  hollistic consumer application, and adoption.
+We want to solve the AR-Platform Problem, as we believe there is no [hardware solution](https://github.com/caraveo/spatial-hardware) (yet) on the market that meets a certain standard for wide-range,  hollistic consumer application, and adoption.
 
 We plan to implement what we call "Expo" apps, or experiences similar to what is now known as the [MetaVerse].
 
